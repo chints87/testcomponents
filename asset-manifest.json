@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testcomponents/static/css/main.fe5f081d.chunk.css",
+    "main.css": "/testcomponents/static/css/main.56301b14.chunk.css",
     "main.js": "/testcomponents/static/js/main.ee1fa14e.chunk.js",
     "main.js.map": "/testcomponents/static/js/main.ee1fa14e.chunk.js.map",
     "runtime-main.js": "/testcomponents/static/js/runtime-main.f1d1d97b.js",
@@ -10,14 +10,14 @@
     "static/js/3.0720d540.chunk.js": "/testcomponents/static/js/3.0720d540.chunk.js",
     "static/js/3.0720d540.chunk.js.map": "/testcomponents/static/js/3.0720d540.chunk.js.map",
     "index.html": "/testcomponents/index.html",
-    "static/css/main.fe5f081d.chunk.css.map": "/testcomponents/static/css/main.fe5f081d.chunk.css.map",
+    "static/css/main.56301b14.chunk.css.map": "/testcomponents/static/css/main.56301b14.chunk.css.map",
     "static/js/2.8204f85d.chunk.js.LICENSE.txt": "/testcomponents/static/js/2.8204f85d.chunk.js.LICENSE.txt",
     "static/media/event-preview-card.styles.css": "/testcomponents/static/media/online-business.becbf23e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1d1d97b.js",
     "static/js/2.8204f85d.chunk.js",
-    "static/css/main.fe5f081d.chunk.css",
+    "static/css/main.56301b14.chunk.css",
     "static/js/main.ee1fa14e.chunk.js"
   ]
 }
